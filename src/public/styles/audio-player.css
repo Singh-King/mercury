@@ -1,0 +1,20 @@
+.audio-container {
+    text-align: center;
+    margin-top: 500px;
+    background-color: #e0ed95; /* Light gray background */
+    padding: 200px;
+    border-radius: 10px; /* Rounded corners */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* Soft shadow */
+}
+
+.audio-wrapper {
+    display: inline-block; /* Keep the audio player inline */
+    padding: 30px;
+    background-color: #be6464; /* White background */
+    border: 5px solid #a3dfa4; /* Light border */
+    border-radius: 5px; /* Rounded corners */
+}
+
+audio {
+    width: 300px; /* Set a fixed width */
+}
